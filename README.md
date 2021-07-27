@@ -1,7 +1,7 @@
 ![colour_flipper](https://user-images.githubusercontent.com/57625616/127163392-015d0b38-14fa-4339-992e-60f20c449269.jpeg)
 
 
-<h1 align="center"> Colour_flipper <br/>A website which displays colour according to their hexadecimal values or by their names</h1> 
+<h1 align="center"> Colour_flipper <br/></h1> 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
  
