@@ -25,5 +25,4 @@ This is a simple website which displays background colour according to their hex
 <img src="colour_flipper3.jpeg" height="250px">
 
 ## Deployment
-The website is deployed at <br>
 <ul>https://vipulraj-123.github.io/Colour_flipper/</ul>
