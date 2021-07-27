@@ -19,8 +19,12 @@
 This is a simple website which displays background colour according to their hexadecimal values in CSS or simply by their names.
 
 ## Images
-![colour_flipper](https://user-images.githubusercontent.com/57625616/127170370-939b9ca4-088b-4687-a8db-2185df71c2cf.jpeg)
-![colour_flipper1](https://user-images.githubusercontent.com/57625616/127171775-ca43302d-22bb-4d97-a17b-48e294236e79.jpeg)
-![colour_flipper2](https://user-images.githubusercontent.com/57625616/127171806-217217e8-3320-49c7-afba-d75b92cde1cd.jpeg)
-![colour_flipper3](https://user-images.githubusercontent.com/57625616/127171829-78748777-4ed1-4ae8-a018-3cd5a860ecb5.jpeg)
+<img src="https://user-images.githubusercontent.com/57625616/127172414-73389612-4194-42c2-89ba-8bb232691d51.jpeg
+" height="250px">
+<img src="https://user-images.githubusercontent.com/57625616/127172632-636390df-40b6-42de-981d-a53119c6ccff.jpeg
+" height="250px">
+<img src="https://user-images.githubusercontent.com/57625616/127172716-5cfcc771-aa70-4bf4-b629-3aa0a0294d4a.jpeg
+" height="250px">
+<img src="https://user-images.githubusercontent.com/57625616/127172768-6de861a6-400e-48e2-8f6b-213974f91b63.jpeg
+" height="250px">
 
