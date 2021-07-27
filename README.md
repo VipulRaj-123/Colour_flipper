@@ -1,4 +1,4 @@
-![colour_flipper](https://user-images.githubusercontent.com/57625616/127163392-015d0b38-14fa-4339-992e-60f20c449269.jpeg)
+![Colour_flipper](https://socialify.git.ci/VipulRaj-123/Colour_flipper/image?description=1&font=Raleway&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
 
 
 <h1 align="center"> Colour_flipper <br/></h1> 
@@ -14,3 +14,6 @@
 ![Contribution](https://img.shields.io/badge/Contribution-Welcome-brightgreen)
 
 </h2>
+
+## Description
+This is a simple website which displays background colour according to their hexadecimal values in CSS or simply by their names
